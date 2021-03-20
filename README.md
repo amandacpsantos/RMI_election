@@ -1,4 +1,4 @@
-"# election-java-rmi-1072788" 
+Trabalho desenvolvido para a disciplina LABORATÓRIO DE DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS E DISTRIBUÍDAS - Engenharia de Software - PUC Minas
 
 ## Como utilizar
 
